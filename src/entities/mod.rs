@@ -5,3 +5,4 @@ mod announcement;
 mod announcement_reaction;
 mod application;
 mod attachment;
+mod card;
