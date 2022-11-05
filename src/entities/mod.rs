@@ -8,3 +8,4 @@ mod attachment;
 mod card;
 mod context;
 mod conversation;
+mod emoji;
