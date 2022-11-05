@@ -12,3 +12,4 @@ mod emoji;
 mod error;
 mod featured_tag;
 mod field;
+mod filter;
