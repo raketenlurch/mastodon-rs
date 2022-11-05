@@ -9,3 +9,4 @@ mod card;
 mod context;
 mod conversation;
 mod emoji;
+mod error;
