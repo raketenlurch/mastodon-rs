@@ -10,3 +10,4 @@ mod context;
 mod conversation;
 mod emoji;
 mod error;
+mod featured_tag;
