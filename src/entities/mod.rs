@@ -13,3 +13,4 @@ mod error;
 mod featured_tag;
 mod field;
 mod filter;
+mod history;
