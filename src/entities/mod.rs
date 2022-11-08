@@ -14,3 +14,4 @@ mod featured_tag;
 mod field;
 mod filter;
 mod history;
+mod identityproof;
